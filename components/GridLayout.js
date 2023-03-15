@@ -36,7 +36,6 @@ const GridLayout = () => {
     <GridItem bg="blue.300" h="100px" >Box</GridItem>
     <GridItem bg="blue.300" h="100px" >Box</GridItem>
   </Grid>
-<div> 1 2 3 4 5</div>
       </Box>
     );
 };
